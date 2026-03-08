@@ -1,0 +1,10 @@
+@import './global/colors.css';
+@import './global/typography.css';
+
+@font-face {
+    font-family: 'Goldoni';
+    src: url('/fonts/Goldoni.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
